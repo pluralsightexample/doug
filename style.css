@@ -1,0 +1,210 @@
+body {
+    background:##dee0e2; !important;
+    
+  }
+
+.card{
+  border:none;
+}
+/* Top Bar*/
+
+.topBar{
+  margin-top: 0%;
+  margin-left: 0%;
+  margin-right: 0%;
+  background-color: #000000;
+
+}
+
+#link{
+  color: #91499e; 
+  font-size: 12pt;
+}
+
+#topBarLinks{
+ text-align: right;
+ color: white;
+ margin-top:15px;
+}
+
+.btn {
+  background-color: #a01e64;
+  align-content: right;
+  border:none;
+  margin-right:-30%;
+}
+#submit{
+  color:white; !important;
+}
+
+/* Top Banner*/
+h1{
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 43pt;
+  margin-top:0%;
+  }   
+
+
+.topBanner {
+    margin-top: 0%;
+    margin-bottom:0%;
+    color: #EC008C;
+    text-align: center;
+  }
+
+  #search{
+    margin-left: 30%;
+    margin-right: 30%;
+  }
+
+  .card bg-dark text-white{
+    width: 100%;
+    height: 10%;
+  }
+/* Card bodies */
+
+
+ .card-body{
+  background-color:#FFFFFF;  
+  /*background-color: #dee0e2;*/
+ }
+ .card-text{
+   color: #000000;
+   font-size: 14pt;
+ margin-top:0px;
+   /*color:#dee0e2;*/
+ }
+.card-img-top{
+  margin-bottom: 100px;
+}
+ 
+ 
+
+ /*Skills Container*/
+
+ #skillsContainer.container{
+  background-color: #FFFFFF;
+}
+
+
+  /*USER TILES*/
+  
+  .userContainer{
+    background-color:#FFFFFF;
+    padding: 0%;
+    /* margin-top: 10%;
+    margin-bottom:10%;
+    margin-left: 15%;
+    margin-right: 15%; */
+  }
+  
+
+
+/*Experience TILES*/
+  
+.experienceContainer{
+  background-color:#FFFFFF;
+  widows: 500px;
+}
+.col-3{
+  margin:-10px;
+}
+
+#analyticsCard{
+  margin-bottom: 5%;
+}
+
+#peopleStructureCard{
+  margin-bottom: 5%;
+}
+
+#skillsIQCard{
+  margin-bottom: 5%;
+}
+
+#row1{
+  margin-bottom:120px;
+}
+
+#row2{
+  margin-bottom:100px;
+}
+
+
+  /* PRODUCTS */
+
+  #productsPlace{
+    margin-top:-10%;
+  }
+  .productContainer{
+    background-color: white;  /**181818*/
+  }
+
+#topicsHeader{
+  margin-top: -100px;
+}
+
+  h4{
+    color: #212121;
+  }
+  h5{
+    color: #EC008C;
+    font-size: 14pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    } 
+    
+    h6{
+      color: #aaaaaa;
+    }
+
+  #pluralsightCard {
+    margin-left: 30%;
+    margin-right: 10%;
+  }
+
+  #flowCard{
+    margin-left: 0%;
+    margin-right: 25%;
+  }
+  
+  
+/* TOPICS */
+h2{
+  color:#91499e;
+  align-content: center;
+  padding:0%;
+  margin-bottom:5%;
+  font-size: 50pt;
+}
+
+.topicsLine{
+  background-color: #27b35d;
+  padding: 1px;
+  margin-top:20px;
+  margin-bottom: 10px;
+}
+
+#topicsLine{
+  background-color: #27b35d;
+  margin-top:10px;
+  margin-bottom: 10px;
+}
+
+.topicsContainer{
+   margin-left:10%;
+}
+
+.footer{
+  background-color: #000000;
+}
+
+#footerLink{
+  color: #ffffff;
+  font-size: 10pt;
+}
+
+#copyright{
+  color: #FFFFFF; 
+  font-size: 10pt;
+  }
